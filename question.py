@@ -1,0 +1,6 @@
+name=(input("enter your name:"))
+print("hello",name)
+hours=int(input("enter hours:"))
+rate=int(input("enter rate:"))
+pay = (rate*hours)
+print ("you have to pay:",pay)
